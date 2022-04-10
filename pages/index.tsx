@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       </header>
 
       <main>
-        
+        <p>this is where the rest of my stuff is going to go.</p>
       </main>
 
       <footer className='bg-green-500 p-4 mt-8'>
