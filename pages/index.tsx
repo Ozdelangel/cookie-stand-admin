@@ -3,6 +3,7 @@ import Head from '../components/head'
 import Header from '../components/header'
 import CreateForm from '../components/form'
 import Footer from '../components/footer'
+import Table from '../components/report-table'
 import Image from 'next/image'
 
 const Home: NextPage = () => {
@@ -23,6 +24,7 @@ const Home: NextPage = () => {
       <Header/>
       <main>
       <CreateForm/>
+      <Table/>
       </main>
       <Footer/>
     </>
